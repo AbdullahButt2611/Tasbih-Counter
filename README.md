@@ -38,8 +38,8 @@ The languages used are
 ## Developer
 Muhammad Abdullah Butt <br>
 abdullahbutt12292210@gmail.com <br>
-> [Instagram](https://www.instagram.com/abdullah.butt.22/)
-> [FaceBook](https://www.facebook.com/profile.php?id=100076291614529)
-> [YouTube](https://www.youtube.com/channel/UCnuOFQyMywg-KuoN-lmav1Q)
-> [Portfolio](https://rebrand.ly/muhammadabdullahPortfolio)
+> [Instagram](https://www.instagram.com/abdullah.butt.22/)<br>
+> [FaceBook](https://www.facebook.com/profile.php?id=100076291614529)<br>
+> [YouTube](https://www.youtube.com/channel/UCnuOFQyMywg-KuoN-lmav1Q)<br>
+> [Portfolio](https://rebrand.ly/muhammadabdullahPortfolio)<br>
 > [Website](#)
